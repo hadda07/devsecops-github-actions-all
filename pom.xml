@@ -41,9 +41,6 @@
       <groupId>org.sonarsource.scanner.maven</groupId>
       <artifactId>sonar-maven-plugin</artifactId>
       <version>3.9.1.2184</version>
-    </plugin>
-
-    <!-- (other plugins...) -->
   </plugins>
 </build>
 <!--#Change 2 - Changes for Unit Test Coverage Percentage Update on SonarCloud Dashboard
